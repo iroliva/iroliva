@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iroliva
-- 👀 I’m interested in the economic impacts of Climate Change, especially on welfare and inequality.
-- 🌱 I’m currently working on Environmental and Development economics for my PhD at UC Davis.
+- 👀 I’m interested in the economics of natural capital and climate change.
+- 🌱 I’m currently working on Environmental and Development Economics for my PhD at UC Davis.
 - 💞️ I’m looking to collaborate on sustainable development.
 - 📫 How to reach me iroliva@ucdavis.edu
 - 😄 Pronouns: he/him
